@@ -4,7 +4,7 @@
     min-height: 29.7cm;
     padding: 0cm;
     margin: 0cm auto;
-    border: 0px #D3D3D3 solid;
+    border: 5px #151414 solid;
     border-radius: 0px;
     background: white;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
@@ -18,12 +18,12 @@
 	position:relative;
     left:0; right:0;
     height: 60px;
+    padding: 1rem;
 }
 
 #headerText
 {
 	position: relative;
-	margin: 0 auto;
 	font-weight: bold;
 	font-family: "Times New Roman", Georgia, Serif;
 }
@@ -80,7 +80,6 @@ ul {
   width: 60%;
   height: 25%;
   margin: 0 auto;
-  text-decoration-color: #161616;
 
 }
 .footer {
